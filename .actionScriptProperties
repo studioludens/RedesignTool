@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="RedesignTool.mxml" projectUUID="73500845-9121-4bc2-ab90-89f15d431a9f" version="10">
+  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" flexSDK="Flex 3.6A" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="false" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderLocation="/Library/WebServer/Documents/redesigntool/RedesignTool-debug" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+    <compilerSourcePath/>
+    <libraryPath defaultLinkType="1">
+      <libraryPathEntry kind="4" path=""/>
+      <libraryPathEntry kind="1" linkType="1" path="libs"/>
+      <libraryPathEntry kind="3" linkType="1" path="libs/PureMVC_AS3_2_0_4/bin/PureMVC_AS3_2_0_4.swc" sourcepath="libs/PureMVC_AS3_2_0_4/src" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="libs/degrafa/Degrafa_Beta3_Flex3.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="libs/as3corelib-.92.1/lib/as3corelib.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="libs/SepyColorPicker/sephiroth_ColorPicker.swc" useDefaultLinkType="false"/>
+    </libraryPath>
+    <sourceAttachmentPath>
+      <sourceAttachmentPathEntry kind="3" linkType="1" path="libs/PureMVC_AS3_2_0_4/bin/PureMVC_AS3_2_0_4.swc" sourcepath="libs/PureMVC_AS3_2_0_4/src" useDefaultLinkType="false"/>
+    </sourceAttachmentPath>
+  </compiler>
+  <applications>
+    <application path="RedesignTool_CommentTest.mxml"/>
+    <application path="RedesignTool.mxml"/>
+    <application path="RedesignTool_SelectionText.mxml"/>
+  </applications>
+  <modules/>
+  <buildCSSFiles/>
+  <flashCatalyst validateFlashCatalystCompatibility="false"/>
+</actionScriptProperties>
